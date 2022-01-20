@@ -1,4 +1,4 @@
-- 👋 Hi, Gamerok
+- 👋 Hi, i`m Gamerok
 - 👀 I’m interested in Minecraft Plugins
 - 🌱 I’m currently learning Java/Bukkit
 -
